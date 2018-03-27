@@ -1,5 +1,5 @@
 from __future__ import print_function
-import find_mxnet
+import tools.find_mxnet
 import mxnet as mx
 import argparse
 import sys, os
